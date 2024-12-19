@@ -1,3 +1,7 @@
-Web : React.js
-Mobile : React Native
-Devops : Jenkins, Kubernetes
+Languages: Javascript, Typescript
+Databases: Postgres
+Cache: Redis
+Queuing: Kafka
+DevOps: Jenkins, Kubernetes
+Web: React JS
+LoadBalancer: Nginx
