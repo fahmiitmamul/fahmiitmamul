@@ -6,4 +6,5 @@
 - **Queuing:** Kafka  
 - **DevOps:** Jenkins, Kubernetes  
 - **Web:** React JS  
-- **Load Balancer:** Nginx  
+- **Load Balancer:** Nginx
+- **Mobile:** React Native  
