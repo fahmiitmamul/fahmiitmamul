@@ -1,4 +1,4 @@
-## 🛠️ Tech Stack
+## Mostly get in touch with these stack
 
 - **Languages:** JavaScript, TypeScript  
 - **Databases:** PostgreSQL  
