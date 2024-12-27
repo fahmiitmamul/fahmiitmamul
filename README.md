@@ -1,4 +1,4 @@
-## Mostly get in touch with these stack
+Experienced Software Engineer | Building Large-Scale System Expertise | Proficient in Application Security and DevOps
 
 - **Languages:** JavaScript, TypeScript  
 - **Databases:** PostgreSQL  
