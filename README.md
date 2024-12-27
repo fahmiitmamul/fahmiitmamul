@@ -1,4 +1,4 @@
-Experienced Software Engineer | Building Large-Scale System Expertise | Proficient in Application Security and DevOps
+**Experienced Software Engineer | Solving Real-World Problems with Large-Scale System Expertise | Proficient in Application Design and DevOps**
 
 - **Languages:** JavaScript, TypeScript  
 - **Databases:** PostgreSQL  
