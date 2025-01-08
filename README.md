@@ -2,8 +2,7 @@
 
 - **Languages:** JavaScript, TypeScript  
 - **Databases:** PostgreSQL  
-- **Cache:** Redis  
-- **Queuing:** Kafka  
+- **Queuing:** RabbitMQ  
 - **DevOps:** Jenkins, Kubernetes  
 - **Web:** React JS  
 - **Load Balancer:** Nginx
