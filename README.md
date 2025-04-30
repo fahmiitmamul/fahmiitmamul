@@ -8,4 +8,4 @@
 - **Load Balancer:** Nginx
 - **Mobile:** React Native  
 
-https://github-readme-activity-graph.vercel.app/graph?username=fahmiitmamul&theme=tokyo-night
+![Itmamul Fahmi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fahmiitmamul&theme=tokyo-night)
