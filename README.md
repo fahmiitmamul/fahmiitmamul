@@ -7,3 +7,5 @@
 - **Web:** React JS  
 - **Load Balancer:** Nginx
 - **Mobile:** React Native  
+
+https://github-readme-activity-graph.vercel.app/graph?username=fahmiitmamul&theme=tokyo-night
