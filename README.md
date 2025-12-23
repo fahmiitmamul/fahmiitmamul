@@ -30,6 +30,8 @@
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes"></code>
 <code><img height="27" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sequelize/sequelize-original.svg" alt="sequelize"></code>
+
 
 
 ### Projects and Dev Stuffs:
